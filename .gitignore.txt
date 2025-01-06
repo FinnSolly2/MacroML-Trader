@@ -1,1 +1,0 @@
-.iypnb_checkpoints/
