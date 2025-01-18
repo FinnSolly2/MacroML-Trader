@@ -1,4 +1,4 @@
-# Multi-Asset Trading Strategy Using Machine Learning: A Critical Analysis
+# Multi-Asset Trading Strategy Using Machine Learning
 
 ## Introduction
 
